@@ -1,0 +1,8 @@
+>MOTIF1
+^MSA
+
+>MOTIF2
+^MS.(S|D)
+
+>MOTIF3
+FDK(EST)?
